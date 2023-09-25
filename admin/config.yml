@@ -164,3 +164,14 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
+
+
+
+# In your `config.yaml` is a Module section:
+module:
+  imports: 
+    # Add the Netlify CMS module below, if it has not already been added:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+
