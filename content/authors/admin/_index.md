@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Land Biogeochemistry-Climate interactions
+role: Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Princeton University (HMEI, USA)
+  - name: High Meadows Environmental Institute, Princeton University (NJ, USA)
     url: https://environment.princeton.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mrbeaudor@gmail.com'
+    url: 'mailto:mb0142@princeton.edu'
     label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/alexjohnsonai
@@ -51,83 +51,119 @@ interests:
   - Evolution of the agricultural practices and the biogechemistry cycles 
 
 education:
-  - area: PhD in continental surface - atmosphere interactions
-    institution: Université Versailles Saint Quentin en Yvelines (Paris-Saclay)
-    date_start: 2019-11-01
-    date_end: 2023-03-16
+  - area: PhD in Environmental Science
+    institution: Université Paris Saclay LSCE (Gif-sur-Yvette, France)
+    date_start: 2019-01-01
+    date_end: 2023-12-31
     summary: |
-      Thesis on the global modeling of agricultural ammonia emisisons and their impacts on atmospheric chemistry and climate
+      Thesis: "Global modelling of ammonia emissions from agriculture and impact on atmospheric chemistry"
+      Received congratulations from the jury commission
+      Advisors: Didier Hauglustaine, Nicolas Vuichard, and Juliette Lathière
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-04116015v1'
-  - area: Msc in Climate, Land Use and Ecosystemic Services
-    institution: AgroParisTech (Paris-Saclay)
+  - area: M.Sc. Environmental Science in Climate Land-Use and Ecosystem Services
+    institution: AgroParisTech (Paris, France)
     date_start: 2017-09-01
     date_end: 2019-08-31
-    #summary: |
-  - area: Bsc in Ecology and Biodiversity of the Organisms
-    institution: Université Paris Sud (Paris-Saclay)
+    summary: |
+      Thesis: "Natural emissions of pollutants during drought and impact on air quality during Summer 2018 in Europe"
+      Advisor: Solène Turquety (LMD-IPSL, Paris)
+  - area: B.Sc. Environmental Science in Biodiversity of Organisms and Ecology
+    institution: Université Paris Saclay (Paris, France)
     date_start: 2016-09-01
     date_end: 2017-08-31
-    #summary: |
+    summary: |
+      Undergraduate program in environmental science
+  - area: Classes Préparatoires
+    institution: Lycée François 1er (Fontainebleau, France)
+    date_start: 2014-09-01
+    date_end: 2016-08-31
+    summary: |
+      Undergraduate program specializing in Biology, Chemistry, Physics, and Geology, designed to prepare students for French agronomy and veterinary schools
 
-#work:
-  # - position: Senior AI Research Scientist
-  #   company_name: Meta AI
-  #   company_url: 'https://ai.meta.com/'
-  #   company_logo: ''
-  #   date_start: 2020-01-01
-  #   date_end: ''
-  #   summary: |2-
-  #     Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  # - position: AI Research Intern
-  #   company_name: OpenAI
-  #   company_url: 'https://openai.com/'
-  #   company_logo: ''
-  #   date_start: 2019-06-01
-  #   date_end: 2019-12-31
-  #   summary: |
-  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+work:
+  - position: Postdoctoral Research Associate
+    company_name: High Meadows Environmental Institute, Princeton University
+    company_url: 'https://environment.princeton.edu/'
+    company_logo: ''
+    date_start: 2023-12-01
+    date_end: ''
+    summary: |2-
+      Resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework. Implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization). Principal Investigator: Elena Shevliakova (Geophysical Fluid Dynamics Laboratory, NJ, USA).
+  - position: Postdoctoral Research Associate
+    company_name: LSCE (Laboratoire des Sciences du Climat et de l'Environnement)
+    company_url: 'https://www.lsce.ipsl.fr/'
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: 2023-10-31
+    summary: |
+      Investigating the impact of a future large-scale hydrogen economy on atmospheric composition and climate using an Earth System Model. Assessing the climate and environmental impacts of green ammonia by exploiting the IPSL Earth System Model and developing an offline model for H2 soil uptake with key environmental output from the ORCHIDEE model. Principal Investigator: Didier Hauglustaine (CNRS-LSCE, FRANCE).
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python & PyTorch
-#         description: ''
-#         percent: 95
-#         icon: code-bracket
-#       - name: Machine Learning
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: Cloud Computing (AWS/GCP)
-#         description: ''
-#         percent: 85
-#         icon: cloud
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking in the Rockies
-#         description: ''
-#         percent: 80
-#         icon: person-simple-walk
-#       - name: Building Custom PCs
-#         description: ''
-#         percent: 90
-#         icon: cpu-chip
-#       - name: Sci-Fi Reading
-#         description: ''
-#         percent: 70
-#         icon: book-open
+skills:
+  - name: Languages
+    items:
+      - name: French (Native Speaker)
+        description: Strong reading, writing and speaking competencies
+        percent: 100
+        icon: language
+      - name: English
+        description: Strong reading, writing and speaking competencies
+        percent: 95
+        icon: language
+      - name: Spanish
+        description: Strong reading, writing and speaking competencies
+        percent: 90
+        icon: language
+      - name: Italian
+        description: Basic level
+        percent: 40
+        icon: language
+      - name: German
+        description: Beginner level
+        percent: 20
+        icon: language
+  - name: Coding & Technical Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Python
+        description: Programming and data analysis
+        percent: 95
+        icon: code-bracket
+      - name: R
+        description: Statistical analysis and visualization
+        percent: 85
+        icon: chart-bar
+      - name: FORTRAN
+        description: Scientific computing and modeling
+        percent: 80
+        icon: cpu-chip
+      - name: Bash
+        description: Shell scripting and automation
+        percent: 75
+        icon: terminal
+      - name: CDO/NCO
+        description: NetCDF file processing
+        percent: 85
+        icon: database
+      - name: LaTeX
+        description: Academic typesetting and publishing
+        percent: 90
+        icon: document-text
 
 languages:
-  - name: English
+  - name: French
     percent: 100
+  - name: English
+    percent: 95
   - name: Spanish
-    percent: 50
+    percent: 90
+  - name: Italian
+    percent: 40
+  - name: German
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -157,6 +193,7 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a Postdoctoral Researcher at Princeton University in the Dept of the High Meadows Environemental Institute (HMEI; NJ USA).
-My work focuses on the global modelling of the Nitrogen Cycle at the interface between land and atmosphere. 
-While I had a special focus on agricultural ammonia during my PhD at LSCE (Laboratoire des Sciences du Climat et de l&rsquo;Environnement), my current interest goes beyond one species and aim at investigating microbial-plant_soil N interactions including their changes with climate and land use using the NOAA-GFDL Land Model.
+I am a Postdoctoral Research Associate at Princeton University in the High Meadows Environmental Institute (HMEI; NJ USA).
+My work focuses on resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework. I am implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
+
+During my PhD at LSCE (Laboratoire des Sciences du Climat et de l'Environnement), I specialized in global modeling of agricultural ammonia emissions and their impacts on atmospheric chemistry and climate. My thesis received congratulations from the jury commission and focused on developing comprehensive models to understand how agricultural practices affect atmospheric composition.

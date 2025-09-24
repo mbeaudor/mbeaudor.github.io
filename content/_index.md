@@ -34,11 +34,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Postdoctoral Research Associate at Princeton University in the High Meadows Environmental Institute (HMEI), where I focus on resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My current research involves implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
 
-        Please reach out to collaborate 😃
+        During my PhD at LSCE (Laboratoire des Sciences du Climat et de l'Environnement), I specialized in global modeling of agricultural ammonia emissions and their impacts on atmospheric chemistry and climate. My thesis received congratulations from the jury commission and focused on developing comprehensive models to understand how agricultural practices affect atmospheric composition.
+
+        I am passionate about understanding how anthropogenic activities affect air quality and biogeochemical cycles, particularly in the context of evolving agricultural practices and climate change.
+
+        Please reach out to collaborate on research related to land biogeochemistry, climate interactions, and nitrogen cycle modeling! 🌱
     design:
       columns: '1'
   - block: collection
@@ -68,7 +72,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - events
+          - presentations
     design:
       view: card
   - block: collection
