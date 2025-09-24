@@ -15,15 +15,9 @@ sections:
       subtitle: "Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions"
       text: "Princeton University, High Meadows Environmental Institute"
     design:
-      background:
-        image: "uploads/header2.png"
-        image_darken: 0.6
-        image_position: center
-        image_size: cover
-        text_color_light: true
       spacing:
         padding: ["100px", "0", "100px", "0"]
-      css_class: "text-center"
+      css_class: "text-center hero-section"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -44,12 +38,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-      # Background image
-      background:
-        image: "uploads/header2.png"
-        image_darken: 0.3
-        image_position: center
-        image_size: cover
   - block: markdown
     id: research
     content:
