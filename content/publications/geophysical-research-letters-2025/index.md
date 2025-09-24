@@ -10,9 +10,9 @@ publication: "*Geophysical Research Letters* (under review)"
 publication_short: "*Geophysical Research Letters* (under review)"
 abstract: "This invited commentary explores how fire emissions could reshape the nitrogen cycle in a changing climate, examining the complex interactions between fire, nitrogen dynamics, and climate change."
 links:
-  - type: info
-    url: "#"
-    label: "Under Review - Not Yet Available"
+  - type: doi
+    url: "https://essopenarchive.org/users/713500/articles/1283375-how-could-fire-emissions-reshape-the-nitrogen-cycle?commit=f403eaf8142043378023fb0ee818f1a7eb38993a"
+    label: "Under Review - Preprint Available"
 featured: true
 tags:
   - fire emissions
