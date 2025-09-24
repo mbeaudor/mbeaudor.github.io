@@ -9,30 +9,21 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: "Maureen Beaudor"
       subtitle: "Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions"
       text: "Princeton University, High Meadows Environmental Institute"
-      image: "uploads/header2.png"
-      cta:
-        label: "View My Research"
-        url: "#research"
-        icon_pack: fas
-        icon: download
-      cta_alt:
-        label: "Contact Me"
-        url: "mailto:mb0142@princeton.edu"
     design:
       background:
         image: "uploads/header2.png"
         image_darken: 0.6
-        image_parallax: true
         image_position: center
         image_size: cover
         text_color_light: true
       spacing:
         padding: ["100px", "0", "100px", "0"]
+      css_class: "text-center"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

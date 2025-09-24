@@ -14,7 +14,9 @@ tags:
   - atmospheric chemistry
   - global modeling
   - PhD thesis
-url_pdf: 'https://theses.hal.science/tel-04116015v1'
+links:
+  - type: pdf
+    url: 'https://theses.hal.science/tel-04116015v1'
 url_code: ''
 url_dataset: ''
 url_poster: ''

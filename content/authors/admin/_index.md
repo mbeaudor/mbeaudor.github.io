@@ -143,11 +143,11 @@ skills:
       - name: Bash
         description: Shell scripting and automation
         percent: 75
-        icon: terminal
+        icon: code-bracket
       - name: CDO/NCO
         description: NetCDF file processing
         percent: 85
-        icon: database
+        icon: chart-bar
       - name: LaTeX
         description: Academic typesetting and publishing
         percent: 90

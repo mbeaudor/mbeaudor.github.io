@@ -10,7 +10,9 @@ publication_types: ["2"]
 publication: "*Journal of Advances in Modeling Earth Systems*, vol. 17, 2025"
 publication_short: "*Journal of Advances in Modeling Earth Systems*, 2025"
 abstract: "This study examines future trends of agricultural ammonia global emissions under changing climate conditions, providing insights into how climate change will affect agricultural nitrogen emissions."
-doi: 10.1029/2023MS004186
+hugoblox:
+  ids:
+    doi: 10.1029/2023MS004186
 featured: true
 tags:
   - agricultural ammonia

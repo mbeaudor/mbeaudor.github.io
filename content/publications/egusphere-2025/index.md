@@ -12,7 +12,9 @@ publication_types: ["2"]
 publication: "*EGUsphere*, vol. 2025, pp. 1-32, 2025"
 publication_short: "*EGUsphere*, 2025"
 abstract: "This study presents a global atmospheric inversion of NH3 emissions over 2019-2022 using the LMDZ-INCA chemistry-transport model and IASI NH3 observations."
-doi: 10.5194/egusphere-2025-162
+hugoblox:
+  ids:
+    doi: 10.5194/egusphere-2025-162
 featured: true
 tags:
   - NH3 emissions

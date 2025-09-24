@@ -10,7 +10,9 @@ publication_types: ["2"]
 publication: "*Geoscientific Model Development*, vol. 16, no. 3, pp. 1053-1081, Feb. 9, 2023"
 publication_short: "*Geoscientific Model Development*, 2023"
 abstract: "This study presents global agricultural ammonia emissions simulated with the ORCHIDEE land surface model, providing detailed insights into agricultural nitrogen emissions patterns and their environmental impacts."
-doi: 10.5194/gmd-16-1053-2023
+hugoblox:
+  ids:
+    doi: 10.5194/gmd-16-1053-2023
 featured: true
 tags:
   - agricultural ammonia

@@ -12,7 +12,9 @@ publication_types: ["2"]
 publication: "*Atmospheric Chemistry and Physics*, vol. 25, no. 4, pp. 2017-2046, 2025"
 publication_short: "*Atmospheric Chemistry and Physics*, 2025"
 abstract: "This study evaluates the present-day and future impacts of agricultural ammonia emissions on atmospheric chemistry and climate using comprehensive modeling approaches."
-doi: 10.5194/acp-25-2017-2025
+hugoblox:
+  ids:
+    doi: 10.5194/acp-25-2017-2025
 featured: true
 tags:
   - ammonia emissions
