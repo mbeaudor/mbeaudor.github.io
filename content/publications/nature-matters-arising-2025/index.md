@@ -7,10 +7,14 @@ authors:
   - admin
   - et al.
 date: 2025-01-10
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*Nature Matters Arising* (under review)"
 publication_short: "*Nature Matters Arising* (under review)"
 abstract: "This multi-model study provides comprehensive estimates of global climate effects resulting from anthropogenic reactive nitrogen emissions."
+links:
+  - type: info
+    url: "#"
+    label: "Under Review - Not Yet Available"
 featured: false
 tags:
   - reactive nitrogen

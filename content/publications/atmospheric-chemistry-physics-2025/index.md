@@ -8,13 +8,17 @@ authors:
   - Lieven Clarisse
   - Nicolas Vuichard
 date: 2025-02-15
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*Atmospheric Chemistry and Physics*, vol. 25, no. 4, pp. 2017-2046, 2025"
 publication_short: "*Atmospheric Chemistry and Physics*, 2025"
 abstract: "This study evaluates the present-day and future impacts of agricultural ammonia emissions on atmospheric chemistry and climate using comprehensive modeling approaches."
 hugoblox:
   ids:
     doi: 10.5194/acp-25-2017-2025
+links:
+  - type: doi
+    url: https://doi.org/10.5194/acp-25-2017-2025
+    label: "Read Full Article"
 featured: true
 tags:
   - ammonia emissions

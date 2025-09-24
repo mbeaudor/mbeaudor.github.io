@@ -5,10 +5,14 @@ authors:
   - A. Pouyaei
   - R. Wang
 date: 2025-01-05
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*Geophysical Research Letters* (under review)"
 publication_short: "*Geophysical Research Letters* (under review)"
 abstract: "This invited commentary explores how fire emissions could reshape the nitrogen cycle in a changing climate, examining the complex interactions between fire, nitrogen dynamics, and climate change."
+links:
+  - type: info
+    url: "#"
+    label: "Under Review - Not Yet Available"
 featured: true
 tags:
   - fire emissions

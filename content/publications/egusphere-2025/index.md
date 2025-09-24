@@ -8,13 +8,17 @@ authors:
   - B. Revilla Romero
   - et al.
 date: 2025-01-20
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*EGUsphere*, vol. 2025, pp. 1-32, 2025"
 publication_short: "*EGUsphere*, 2025"
 abstract: "This study presents a global atmospheric inversion of NH3 emissions over 2019-2022 using the LMDZ-INCA chemistry-transport model and IASI NH3 observations."
 hugoblox:
   ids:
     doi: 10.5194/egusphere-2025-162
+links:
+  - type: doi
+    url: https://doi.org/10.5194/egusphere-2025-162
+    label: "Read Full Article"
 featured: false
 tags:
   - NH3 emissions

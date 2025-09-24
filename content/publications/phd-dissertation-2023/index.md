@@ -3,7 +3,7 @@ title: "Global modelling of ammonia emissions from agriculture and impact on atm
 authors:
   - admin
 date: 2023-03-16
-publication_types: ["3"]
+publication_types: ["PhD Thesis"]
 publication: "Ph.D. dissertation, Université Paris-Saclay, 2023"
 publication_short: "Ph.D. dissertation, Université Paris-Saclay, 2023"
 abstract: "This doctoral thesis presents comprehensive global modeling of ammonia emissions from agriculture and their impacts on atmospheric chemistry, providing new insights into agricultural nitrogen dynamics and atmospheric composition."

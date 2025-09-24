@@ -8,13 +8,17 @@ authors:
   - admin
   - Nicolas Vuichard
 date: 2024-12-15
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*Nature Communications*, 2024"
 publication_short: "*Nature Communications*, 2024"
 abstract: "This study examines the uneven consequences of global climate mitigation pathways on regional water quality throughout the 21st century."
 hugoblox:
   ids:
     doi: 10.1038/s41467-024-49866-x
+links:
+  - type: doi
+    url: https://doi.org/10.1038/s41467-024-49866-x
+    label: "Read Full Article"
 featured: true
 tags:
   - climate mitigation

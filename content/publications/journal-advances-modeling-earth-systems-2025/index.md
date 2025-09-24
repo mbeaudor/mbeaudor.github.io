@@ -6,13 +6,17 @@ authors:
   - Juliette Lathière
   - Didier Hauglustaine
 date: 2025-01-15
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 publication: "*Journal of Advances in Modeling Earth Systems*, vol. 17, 2025"
 publication_short: "*Journal of Advances in Modeling Earth Systems*, 2025"
 abstract: "This study examines future trends of agricultural ammonia global emissions under changing climate conditions, providing insights into how climate change will affect agricultural nitrogen emissions."
 hugoblox:
   ids:
     doi: 10.1029/2023MS004186
+links:
+  - type: doi
+    url: https://doi.org/10.1029/2023MS004186
+    label: "Read Full Article"
 featured: true
 tags:
   - agricultural ammonia
