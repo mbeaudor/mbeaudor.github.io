@@ -2,7 +2,7 @@
 title: "Global modelling of ammonia emissions from agriculture and impact on atmospheric chemistry"
 authors:
   - admin
-date: 2023-01-01
+date: 2023-03-16
 publication_types: ["3"]
 publication: "Ph.D. dissertation, Université Paris-Saclay, 2023"
 publication_short: "Ph.D. dissertation, Université Paris-Saclay, 2023"

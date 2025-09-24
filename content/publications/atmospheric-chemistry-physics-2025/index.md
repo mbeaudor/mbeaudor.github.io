@@ -7,7 +7,7 @@ authors:
   - Martin Van Damme
   - Lieven Clarisse
   - Nicolas Vuichard
-date: 2025-01-01
+date: 2025-02-15
 publication_types: ["2"]
 publication: "*Atmospheric Chemistry and Physics*, vol. 25, no. 4, pp. 2017-2046, 2025"
 publication_short: "*Atmospheric Chemistry and Physics*, 2025"

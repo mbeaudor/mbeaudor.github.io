@@ -7,7 +7,7 @@ authors:
   - S. Malyshev
   - admin
   - Nicolas Vuichard
-date: 2024-01-01
+date: 2024-12-15
 publication_types: ["2"]
 publication: "*Nature Communications*, 2024"
 publication_short: "*Nature Communications*, 2024"

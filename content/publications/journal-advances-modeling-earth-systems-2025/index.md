@@ -5,7 +5,7 @@ authors:
   - Nicolas Vuichard
   - Juliette Lathière
   - Didier Hauglustaine
-date: 2025-01-01
+date: 2025-01-15
 publication_types: ["2"]
 publication: "*Journal of Advances in Modeling Earth Systems*, vol. 17, 2025"
 publication_short: "*Journal of Advances in Modeling Earth Systems*, 2025"
