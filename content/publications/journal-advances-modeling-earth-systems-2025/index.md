@@ -29,7 +29,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Future trends of agricultural ammonia global emissions under changing climate conditions'
+  focal_point: 'Center'
   preview_only: false
+  filename: 'featured.jpg'
 ---

@@ -31,7 +31,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Global agricultural ammonia emissions and their impacts on atmospheric chemistry and climate'
+  focal_point: 'Center'
   preview_only: false
+  filename: 'featured.jpg'
 ---

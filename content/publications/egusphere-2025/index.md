@@ -31,7 +31,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Global atmospheric inversion of NH3 emissions using LMDZ-INCA model and IASI observations'
+  focal_point: 'Center'
   preview_only: false
+  filename: 'featured.jpg'
 ---

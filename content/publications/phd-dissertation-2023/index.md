@@ -25,7 +25,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Global modelling of ammonia emissions from agriculture and impact on atmospheric chemistry'
+  focal_point: 'Center'
   preview_only: false
+  filename: 'featured.jpg'
 ---

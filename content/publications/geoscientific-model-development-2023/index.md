@@ -29,7 +29,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Global agricultural ammonia emissions simulated with the ORCHIDEE land surface model'
+  focal_point: 'Center'
   preview_only: false
+  filename: 'featured.jpg'
 ---

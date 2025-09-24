@@ -15,6 +15,9 @@ tags:
   - nitrogen cycle
   - climate change
   - atmospheric chemistry
+hugoblox:
+  ids:
+    doi: 10.22541/essoar.174426931.19339369/v1
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -27,4 +30,5 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+  filename: 'featured.jpg'
 ---
