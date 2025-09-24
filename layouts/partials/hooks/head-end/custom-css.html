@@ -40,6 +40,36 @@ body [class*="navbar"] .nav-link:hover {
   color: #a7f3d0 !important; /* Light emerald on hover */
 }
 
+/* Target all navigation elements more specifically */
+body .navbar-nav .nav-link,
+body .navbar-nav .nav-item .nav-link,
+body .navbar-collapse .nav-link,
+body .navbar-menu .nav-link,
+body .nav .nav-link {
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+body .navbar-nav .nav-link:hover,
+body .navbar-nav .nav-item .nav-link:hover,
+body .navbar-collapse .nav-link:hover,
+body .navbar-menu .nav-link:hover,
+body .nav .nav-link:hover {
+  color: #a7f3d0 !important;
+}
+
+/* Target any remaining dark text in navbar */
+body .navbar * {
+  color: white !important;
+}
+
+body .navbar .nav-link,
+body .navbar .nav-item,
+body .navbar .navbar-nav,
+body .navbar .navbar-collapse {
+  color: white !important;
+}
+
 /* Make sure the navbar is visible over the hero image */
 body .navbar {
   position: relative !important;
