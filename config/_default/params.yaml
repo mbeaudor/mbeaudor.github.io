@@ -37,8 +37,6 @@ header:
     logo:
       text: 'Maureen Beaudor'
       image: '/favicon-192x192.png'
-    design:
-      css_class: 'navbar-emerald'
 
 # Site footer
 footer:
