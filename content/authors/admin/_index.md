@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Maureen Beaudor
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Maureen
+last_name: Beaudor
 
 # Pronouns (optional)
 pronouns: he/him
@@ -166,4 +166,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a Postdoctoral Researcher at Princeton University in the Dept of the High Meadows Environemental Institute (HMEI; NJ USA).
+My work focuses on the global modelling of the Nitrogen Cycle at the interface between land and atmosphere. 
+While I had a special focus on agricultural ammonia during my PhD at LSCE (Laboratoire des Sciences du Climat et de l&rsquo;Environnement), my current interest goes beyond one species and aim at investigating microbial-plant_soil N interactions including their changes with climate and land use using the NOAA-GFDL Land Model.
