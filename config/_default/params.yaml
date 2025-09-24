@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Maureen Beaudor - Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions at Princeton University'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Maureen Beaudor'
+      image: '/favicon-192x192.png'
 
 # Site footer
 footer:

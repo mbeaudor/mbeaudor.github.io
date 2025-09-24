@@ -8,6 +8,10 @@ title: Maureen Beaudor
 # Website URL
 baseURL: 'https://example.com/'
 
+# Favicon configuration
+params:
+  favicon: '/favicon.ico'
+
 ############################
 ## LANGUAGE
 ############################
