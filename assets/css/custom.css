@@ -15,7 +15,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(11, 118, 77, 0.725);
+  background: rgba(213, 225, 220, 0.725);
   z-index: 1;
 }
 
@@ -62,7 +62,7 @@
 .navbar .navbar-toggler,
 .navbar-default .navbar-toggler,
 .hbx-navbar .navbar-toggler {
-  border-color: #374151 !important;
+  border-color: #059669 !important;
 }
 
 .navbar .navbar-toggler-icon,
