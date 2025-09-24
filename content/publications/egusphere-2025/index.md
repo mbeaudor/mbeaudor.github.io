@@ -15,7 +15,7 @@ abstract: "This study presents a global atmospheric inversion of NH3 emissions o
 hugoblox:
   ids:
     doi: 10.5194/egusphere-2025-162
-featured: true
+featured: false
 tags:
   - NH3 emissions
   - atmospheric inversion
