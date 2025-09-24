@@ -36,9 +36,9 @@ sections:
       text: |-
         I am a Postdoctoral Research Associate at Princeton University in the High Meadows Environmental Institute (HMEI), where I focus on resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework.
 
-        My current research involves implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
+        My current research involves implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization; Wieder et al., 2015) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
 
-        During my PhD at LSCE (Laboratoire des Sciences du Climat et de l'Environnement), I specialized in global modeling of agricultural ammonia emissions and their impacts on atmospheric chemistry and climate. My thesis received congratulations from the jury commission and focused on developing comprehensive models to understand how agricultural practices affect atmospheric composition.
+        During my PhD at LSCE (Laboratoire des Sciences du Climat et de l'Environnement), I specialized in global modeling of agricultural ammonia emissions and their impacts on atmospheric chemistry and climate. My thesis received focused on developing a comprehensive model to understand how agricultural practices affect atmospheric composition.
 
         I am passionate about understanding how anthropogenic activities affect air quality and biogeochemical cycles, particularly in the context of evolving agricultural practices and climate change.
 

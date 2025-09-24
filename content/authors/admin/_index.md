@@ -90,7 +90,7 @@ work:
     date_start: 2023-12-01
     date_end: ''
     summary: |2-
-      Resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework. Implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization). Principal Investigator: Elena Shevliakova (Geophysical Fluid Dynamics Laboratory, NJ, USA).
+      Resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework. Implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization; Wieder et al., 2015) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization). Principal Investigator: Elena Shevliakova (Geophysical Fluid Dynamics Laboratory, NJ, USA).
   - position: Postdoctoral Research Associate
     company_name: LSCE (Laboratoire des Sciences du Climat et de l'Environnement)
     company_url: 'https://www.lsce.ipsl.fr/'
