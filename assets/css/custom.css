@@ -1,8 +1,8 @@
 /* Custom CSS for header background */
 .hero-section {
   background-image: url('/uploads/header2.png');
-  background-size: contain;
-  background-position: center;
+  background-size: cover;
+  background-position: center top;
   background-repeat: no-repeat;
   /*color: white; */
   text-shadow: 2px 2px 4px rgba(11, 118, 77, 0.533);
