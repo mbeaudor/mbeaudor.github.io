@@ -48,7 +48,7 @@ profiles:
 interests:
   - Global modeling of the nitrogen cycle
   - Impact of the anthropogenic activity on air quality
-  - Evolution of the agricultural practices and the biogechemistry cycles 
+  - Evolution of the agricultural practices and the biogeochemistry cycles 
 
 education:
   - area: PhD in Environmental Science
