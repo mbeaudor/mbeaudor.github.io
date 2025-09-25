@@ -35,7 +35,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 image:
-  caption: 'Global agricultural ammonia emissions and their impacts on atmospheric chemistry and climate'
+  caption:'Mean annual NH<sub>3</sub> atmospheric columns observed by the IASI instrument (a) and calculated in the CEDS (b) and CAMEO (c) simulations (2011–2014). The absolute anomalies between the CAMEO and IASI columns are shown in panel (d).'
   focal_point: 'Center'
   preview_only: false
   filename: 'featured.jpg'
