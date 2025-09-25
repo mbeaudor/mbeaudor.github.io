@@ -1,5 +1,5 @@
 ---
-title: "Global atmospheric inversion of the NH<sub>3</sub> emissions over 2019-2022 using the LMDZ-INCA chemistry-transport model and the IASI NH<sub>3</sub> observations"
+title: "Global atmospheric inversion of the NH₃ emissions over 2019-2022 using the LMDZ-INCA chemistry-transport model and the IASI NH₃ observations"
 authors:
   - P. Kumar
   - G. Broquet
@@ -11,7 +11,7 @@ date: 2025-01-20
 publication_types: ["Journal Article"]
 publication: "*EGUsphere*, vol. 2025, pp. 1-32, 2025"
 publication_short: "*EGUsphere*, 2025"
-abstract: "This study presents a global atmospheric inversion of NH<sub>3</sub> emissions over 2019-2022 using the LMDZ-INCA chemistry-transport model and IASI NH<sub>3</sub> observations."
+abstract: "Ammonia (<sub>3</sub>) emissions have continuously increased due to extensive fertilizer usage in agriculture and increasing production of manure and livestock. However, the current <sub>3</sub> emission inventories exhibit large uncertainties at all the spatiotemporal scales. We provide atmospheric inversion estimates of the global <sub>3</sub> emissions over 2019–2022 at 1.27°×2.5° horizontal and daily (at 10-day scale) resolution. We use IASI-ANNI-NH3-v4 satellite observations, simulations of <sub>3</sub> concentrations with chemistry-transport model LMDZ-INCA, and finite difference mass-balance approach for inversions of global <sub>3</sub> emissions. We take advantage of the averaging kernels provided in IASI-ANNI-NH3-v4 dataset, by applying them consistently to LMDZ-INCA <sub>3</sub> simulations for comparison to the observations and then to invert emissions. The average global anthropogenic <sub>3</sub> emissions over 2019–2022 is estimated as ~98 (95–101) Tg/yr, which is ~63 % (~57 %–68 %) higher than the prior CEDS inventory’s anthropogenic <sub>3</sub> emissions and significantly higher than two other global inventories: CAMS’s anthropogenic <sub>3</sub> emissions (by a factor of ~1.9) and CAMEO’s agricultural and natural soil <sub>3</sub> emissions (by ~1.4 times). The global and regional budgets are mostly within the range of other inversion estimates. The analysis provides confidence in their seasonal variability and continental to regional scale budgets. Our analysis shows a ~4 % to ~33 % rise in <sub>3</sub> emissions during COVID-19 lockdowns in 2020 across regions. However, this rise is probably due to a decrease in atmospheric <sub>3</sub> sinks due to decline in NOx and SO2 emissions during the lockdowns."
 hugoblox:
   ids:
     doi: 10.5194/egusphere-2025-162
