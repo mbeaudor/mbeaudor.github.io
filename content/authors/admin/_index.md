@@ -62,14 +62,14 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-04116015v1'
-  - area: M.Sc. Environmental Science in Climate Land-Use and Ecosystem Services
+  - area: M.Sc. Climate Land-Use and Ecosystem Services
     institution: AgroParisTech (Paris, France)
     date_start: 2017-09-01
     date_end: 2019-08-31
     summary: |
       Thesis: "Natural emissions of pollutants during drought and impact on air quality during Summer 2018 in Europe"
       Advisor: Solène Turquety (LMD-IPSL, Paris)
-  - area: B.Sc. Environmental Science in Biodiversity of Organisms and Ecology
+  - area: B.Sc. Biodiversity of Organisms and Ecology
     institution: Université Paris Saclay (Paris, France)
     date_start: 2016-09-01
     date_end: 2017-08-31
