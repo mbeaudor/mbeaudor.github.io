@@ -51,7 +51,7 @@ interests:
   - Evolution of the agricultural practices and the biogeochemistry cycles 
 
 education:
-  - area: PhD in Environmental Science
+  - area: PhD in Land Interfaces and Environment 
     institution: Université Paris Saclay LSCE (Gif-sur-Yvette, France)
     date_start: 2019-01-01
     date_end: 2023-12-31
@@ -75,12 +75,12 @@ education:
     date_end: 2017-08-31
     summary: |
       Undergraduate program in environmental science
-  - area: Classes Préparatoires
+  - area: Classes Préparatoires Biology, Chemistry, Physics, and Geology
     institution: Lycée François 1er (Fontainebleau, France)
     date_start: 2014-09-01
     date_end: 2016-08-31
     summary: |
-      Undergraduate program specializing in Biology, Chemistry, Physics, and Geology, designed to prepare students for French agronomy and veterinary schools
+      French undergraduate program specializing in Biology, Chemistry, Physics, and Geology, designed to prepare students for French agronomy and veterinary schools
 
 work:
   - position: Postdoctoral Research Associate
