@@ -86,7 +86,7 @@ work:
   - position: Postdoctoral Research Associate
     company_name: High Meadows Environmental Institute, Princeton University
     company_url: 'https://environment.princeton.edu/'
-    company_logo: '/content/authors/admin/princeton_logo.png'
+    company_logo: '/princeton_logo.png'
     date_start: 2023-12-01
     date_end: ''
     summary: |2-
