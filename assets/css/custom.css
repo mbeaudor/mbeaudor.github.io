@@ -32,11 +32,8 @@
   text-shadow: 2px 2px 4px rgba(11, 118, 77, 0.725);
 }
 
-/* Company name styling in hero section */
-.hero-section .company-name,
-.hero-section .organization-name,
-.hero-section .institution-name,
-.hero-section p {
+/* Company name styling in hero section - target only the text content */
+.hero-section .markdown p {
   color: #ffffff !important;
   font-weight: 600 !important;
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8) !important;
@@ -55,8 +52,8 @@
 .navbar-default,
 .navbar-fixed-top,
 .hbx-navbar {
-  background-color: rgba(16, 185, 129, 0.9) !important; /* Emerald green */
-  border-bottom: 1px solid rgba(5, 150, 105, 0.3) !important;
+  background-color: rgba(255, 255, 255, 0.95) !important; /* White background */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
   backdrop-filter: blur(8px) !important;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
 }
@@ -67,14 +64,14 @@
 .navbar-default .nav-link,
 .hbx-navbar .navbar-brand,
 .hbx-navbar .nav-link {
-  color: #059669 !important; /* Dark grey text */
+  color: #374151 !important; /* Dark grey text */
   font-weight: 500 !important;
 }
 
 .navbar .nav-link:hover,
 .navbar-default .nav-link:hover,
 .hbx-navbar .nav-link:hover {
-  color: #059669 !important; /* Subtle emerald on hover */
+  color: #059669 !important; /* Emerald on hover */
 }
 
 .navbar .navbar-toggler,
