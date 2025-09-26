@@ -32,15 +32,33 @@
   text-shadow: 2px 2px 4px rgba(11, 118, 77, 0.725);
 }
 
+/* Company name styling in hero section */
+.hero-section .company-name,
+.hero-section .organization-name,
+.hero-section .institution-name,
+.hero-section p {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8) !important;
+  background: rgba(16, 185, 129, 0.3) !important;
+  padding: 12px 20px !important;
+  border-radius: 12px !important;
+  border: 2px solid rgba(16, 185, 129, 0.6) !important;
+  display: inline-block !important;
+  margin: 15px 0 !important;
+  font-size: 1.1em !important;
+  letter-spacing: 0.5px !important;
+}
+
 /* Elegant header styling */
 .navbar,
 .navbar-default,
 .navbar-fixed-top,
 .hbx-navbar {
-  background-color: rgbargba(11, 118, 77, 0.725) !important; /* Semi-transparent white */
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; /* Subtle border */
-  backdrop-filter: blur(10px) !important; /* Glass effect */
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important; /* Subtle shadow */
+  background-color: rgba(16, 185, 129, 0.9) !important; /* Emerald green */
+  border-bottom: 1px solid rgba(5, 150, 105, 0.3) !important;
+  backdrop-filter: blur(8px) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
 }
 
 .navbar .navbar-brand,
