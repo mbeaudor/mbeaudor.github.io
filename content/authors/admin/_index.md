@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions
+role: Researcher in Biogeochemistry-Climate interactions
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: High Meadows Environmental Institute, Princeton University (NJ, USA)
-    url: https://environment.princeton.edu/
+  - name: Laboratoire des Sciences du Climate et de l'Environnement (CEA - IPSL)
+    url: https://www.lsce.ipsl.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
