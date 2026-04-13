@@ -12,8 +12,8 @@ sections:
   - block: markdown
     content:
       title: "Maureen Beaudor"
-      subtitle: "Postdoctoral Research Associate in Land Biogeochemistry-Climate interactions"
-      text: "Princeton University, High Meadows Environmental Institute"
+      subtitle: "Researcher in Biogeochemistry-Climate interactions"
+      text: "Laboratoire des Sciences du Climate et de l'Environnement (CEA - IPSL)"
     design:
       spacing:
         padding: ["100px", "0", "100px", "0"]
@@ -45,9 +45,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Postdoctoral Research Associate at Princeton University in the High Meadows Environmental Institute (HMEI), where I focus on resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework.
+        My current research focus on the chemistry-climate interactions of reactive N species across the Earth System. 
 
-        My current research involves implementing soil microbial N dynamics based on the MIMICS (MIcrobial-Mineral Carbon Stabilization; Wieder et al., 2015) scheme in the Land Model of the NOAA/GFDL ESM, and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
+        I was a Postdoctoral Research Associate at Princeton University in the High Meadows Environmental Institute ([HMEI; NJ USA](https://environment.princeton.edu/)).
+        My current work focuses on resolving nitrogen-gaseous pathways in the atmosphere-plant-microbial-soil continuum within the NOAA/GFDL Earth System Modeling Framework. I am implementing soil microbial N dynamics based on the state-of-the-art MIMICS (MIcrobial-Mineral Carbon Stabilization) scheme in the Land Model of the [NOAA/GFDL Earth System Model](https://www.gfdl.noaa.gov/earth-system-models/), and integrating other biotic and abiotic processes and related N emissions (nitrification, denitrification losses, and volatilization).
 
         During my PhD at LSCE (Laboratoire des Sciences du Climat et de l'Environnement), I specialized in global modeling of agricultural ammonia emissions and their impacts on atmospheric chemistry and climate. My thesis received focused on developing a comprehensive model to understand how agricultural practices affect atmospheric composition.
 
