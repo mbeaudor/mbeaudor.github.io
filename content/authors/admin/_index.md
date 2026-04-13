@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Land Biogeochemistry-Climate interactions
+role: Researcher in Biogeochemistry-Climate interactions
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Princeton University (HMEI, USA)
-    url: https://environment.princeton.edu/
+  - name: Laboratoire des Sciences du Climate et de l'Environnement (CEA - IPSL)
+    url: https://www.lsce.ipsl.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mrbeaudor@gmail.com'
+    url: 'mailto:maureen.beaudor@lsce.ipsl.fr'
     label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/alexjohnsonai
